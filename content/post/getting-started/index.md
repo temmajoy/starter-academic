@@ -46,7 +46,7 @@ The 100% Soil-Healthy Farming Bill will establish soil-health goals and create f
 • Prioritize BIPOC and small to midsized farmers
 • Foster healthy ecosystems to maintain clean water, and benefit pollinators, wildlife, and people.
 
-Sign the petition here! https://lnkd.in/gYnPGZ5
+Sign the petition [here!](https://landstewardshipproject.org/soilhealthyfarmingpetition)
 
 If you’re interested in learning more and taking action on sustainable agriculture, let me know! Open the attached PDF for other relevant links.
 [SoilPetitionand InfographicThomley.pdf](https://github.com/temmajoy/starter-academic/files/6217362/SoilPetitionand.InfographicThomley.pdf)
