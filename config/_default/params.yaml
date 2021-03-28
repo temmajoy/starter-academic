@@ -5,6 +5,7 @@
 
 # Appearance
 #changed appearance at 7:50PM 3/27/2021 theme: minimal to theme: my_theme
+#changed day_night to day to disable night mode (also further down in code)
 theme: my_theme
 day: true
 font: ''
@@ -55,7 +56,7 @@ contact_links:
     link: 'https://discourse.gohugo.io'
 
 # Site header
-
+# disabled day_night
 main_menu:
   enable: true
   align: l
