@@ -10,14 +10,15 @@ day_night: true
 font: ''
 font_size: L
 
-# Theme metadata ADDED ALL OF THIS UNTIL SEO
-name = "my_theme"
+# Theme metadata ADDED ALL OF THIS UNTIL SEO changed 
+# Received Error and changed = to : for name and primary 
+name: "my_theme"
 
 # Is theme light or dark?
-light = true
+light: true
 
 # Primary
-primary = "#EF476F"
+primary: "#EF476F"
 
 # Menu
 menu_primary: "#F7F7F7"
