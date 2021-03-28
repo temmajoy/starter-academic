@@ -3,7 +3,7 @@ title: Help improve Minnesota’s soil health and take climate action!
 subtitle: Sign the 100% Soil-Healthy Farming Bill petition here! https://lnkd.in/gYnPGZ5
 
 # Summary for listings and search engines
-The Land Stewardship Project (LSP) promotes sustainable agriculture and has collaborated with farmers to create the 100% Soil-Healthy Farming bill. I am excited to see how big of an impact we can make by letting our legislators know we care about soil health and the environment.
+summary: The Land Stewardship Project (LSP) promotes sustainable agriculture and has collaborated with farmers to create the 100% Soil-Healthy Farming bill. I am excited to see how big of an impact we can make by letting our legislators know we care about soil health and the environment.
 
 # Link this post with a project
 projects: []
