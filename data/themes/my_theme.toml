@@ -18,6 +18,9 @@ menu_title = "#f1faee"
 # Backgrounds
 background = "#f1faee"
 home_section_odd = "#f1faee"
+  gradient_start = "#f1faee"
+  gradient_end = "#090446"
+  text_color_light = true
 home_section_even = "#eae2b7"
 
 ##all were default before
@@ -27,3 +30,6 @@ dark_home_section_even = "#eae2b7"
 
 link = "#090446"
 link_hover = "#d62828" 
+
+
+
