@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-theme: "minimal"
+#changed appearance at 7:50PM 3/27/2021 theme: minimal to theme: my_theme
+theme: my_theme
 day_night: true
 font: ''
 font_size: M
