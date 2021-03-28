@@ -49,7 +49,7 @@ social:
   link: https://linkedin.com/in/emma-thomley
 - icon: cv
   icon_pack: ai
-  link: static//media/Resume.pdf
+  link: static/media/Resume.pdf
 # not using cuurently - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -69,4 +69,4 @@ highlight_name: false
 I graduated from Carleton College with a degree in Political Science and Environmental Studies. Within my degree, I explored the relationship between effective policy implementation and inclusionary strategies. I also investigated the difficulties of implementing climate mitigation strategies in a rapidly changing economic, political, and technological climate. Above all, I find meaning in my work when I effectively convey it to others and when I help people assist their community. Through my Congressional work, Environmental Fellowship, and Volunteering, I have continued to do what I believe is most important—providing valuable policy information and resources to community members who want to take action on local issues. Outside of my outreach and research work, I am happiest outdoors: running, hiking, canoeing, gardening, or reading a good book.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
