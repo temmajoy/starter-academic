@@ -17,8 +17,8 @@ menu_title = "#F8EEED"
 
 # Backgrounds
 background = "#F8EEED"
-home_section_odd = "#E0D4C6"
-home_section_even = "#F8EEED"
+home_section_odd = "#F8EEED"
+home_section_even = "#59661E"
 
 ##all were default before
 dark_background = "#403030"
