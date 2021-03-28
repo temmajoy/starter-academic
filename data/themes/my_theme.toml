@@ -10,10 +10,10 @@ primary_light = "#FFFFFF"
 primary_dark = "#403030"
 
 # Menu
-menu_primary = "#EBF5DF"
-menu_text = "#403030"
+menu_primary = "#f1faee"
+menu_text = "#090446"
 menu_text_active = "#FFFFFF"
-menu_title = "#EBF5DF"
+menu_title = "#f1faee"
 
 # Backgrounds
 background = "#EBF5DF"
@@ -21,9 +21,9 @@ home_section_odd = "#EBF5DF"
 home_section_even = "#BAD4AA"
 
 ##all were default before
-dark_background = "#BAD4AA"
-dark_home_section_odd = "#BAD4AA"
+dark_background = "#f1faee"
+dark_home_section_odd = "#f1faee"
 dark_home_section_even = "#EBF5DF"
 
-link = "#E8871E"
-link_hover = "#FFFFFF" 
+link = "#090446"
+link_hover = "#457b9d" 
