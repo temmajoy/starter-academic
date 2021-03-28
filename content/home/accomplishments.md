@@ -39,4 +39,19 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
+  - certificate_url: https://doi.org/10.3390/ijgi9060405
+  date_end: ""
+  date_start: "2020-06-22"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  url: ""
+  date_end: "2017-12-21"
+  date_start: "2017-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  url: ""
 ---
