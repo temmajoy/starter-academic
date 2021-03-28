@@ -5,7 +5,7 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#EF476F"
+primary = "#6b705c"
 
 # Menu
 menu_primary = "#cb997e"
@@ -20,8 +20,8 @@ home_section_even = "#ffe8d6"
 
 ##all were default before
 dark_background = "#6b705c"
-dark_home_section_odd = "#6b705c"
-dark_home_section_even = "#6b705c"
+dark_home_section_odd = "#a5a58d"
+dark_home_section_even = "#b7b7a4"
 
-link = "#D90429"
-link_hover = "#118AB2"
+link = "#cb997e"
+link_hover = "#cb997e"
