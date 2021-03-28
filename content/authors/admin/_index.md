@@ -65,7 +65,7 @@ email: "emma.thomley@gmail.com"
 highlight_name: false
 ---
 
-Emma Thomley is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include community outreach, sustainable agriculture, and environmental justice. She volunteers with the Land Stewardship Project, which advocates for sustainable farming practices.
+Emma Thomley graduated from Carleton College with a Bachelors Degree in Environmental Studies and Political Science. Her research interests include community outreach, sustainable agriculture, and environmental justice. She volunteers with the Land Stewardship Project, which advocates for sustainable farming practices.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
