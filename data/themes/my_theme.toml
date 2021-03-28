@@ -11,7 +11,7 @@ primary_dark = "#FFFFFF"
 
 # Menu
 menu_primary = "#FFFFFF"
-menu_text = "#FFFFFF"
+menu_text = "#59661E"
 menu_text_active = "#FFFFFF"
 menu_title = "#FFFFFF"
 
@@ -25,5 +25,5 @@ dark_background = "#FFFFFF"
 dark_home_section_odd = "#FFFFFF"
 dark_home_section_even = "#FFFFFF"
 
-link = "#FFFFFF"
-link_hover = "#FFFFFF"
+link = "#59661E"
+link_hover = "#34351B" 
