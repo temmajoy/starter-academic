@@ -5,26 +5,26 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#f1faee"
+primary = "#eae2b7"
 primary_light = "#d62828"
 primary_dark = "#403030"
 
 # Menu
-menu_primary = "#f1faee"
+menu_primary = "#eae2b7"
 menu_text = "#090446"
 menu_text_active = "#d62828"
-menu_title = "#f1faee"
+menu_title = "#eae2b7"
 
 # Backgrounds
-background = "#f1faee"
-home_section_odd = "#f1faee"
-  gradient_start = "#f1faee"
-  gradient_end = "#090446"
-  text_color_light = true
+background = "#eae2b7"
+home_section_odd = "#eae2b7"
+gradient_start = "#eae2b7"
+gradient_end = "#090446"
+text_color_light = true
 home_section_even = "#eae2b7"
 
 ##all were default before
-dark_background = "#f1faee"
+dark_background = "#eae2b7"
 dark_home_section_odd = "#f1faee"
 dark_home_section_even = "#eae2b7"
 
