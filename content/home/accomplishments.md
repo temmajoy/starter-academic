@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- paper_url: https://www.edx.org
+- certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
+  url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+- certificate_url: https://www.edx.org
+  date_end: "In Progress"
+  date_start: "2019-09-01"
+  description: 'This study provides insight into CAPs in liberal arts colleges with a comparative analysis of 30 CAPs and finds that CAPs vary greatly. CAP content and detail, while previously thought to be crucial to an effective CAP, are less important for creating a successfully implemented CAP as broad stakeholder involvement, administrative support, and financing strategies. Therefore, this study finds that CAPs should serve as launching points for climate action in institutions.'
+  organization: 'Environmental Studies Thesis and Postgraduate Research'
+  organization_url: https://www.edx.org
+  title: 'A Comparative Study of Climate Action Plans in Liberal Arts Colleges'
   url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 - certificate_url: https://www.edx.org
   date_end: ""
