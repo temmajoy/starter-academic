@@ -10,32 +10,61 @@ day_night: true
 font: ''
 font_size: L
 
+# Theme metadata ADDED ALL OF THIS UNTIL SEO
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#EF476F"
+
+# Menu
+menu_primary: "#F7F7F7"
+menu_text: "#FCA311"
+menu_text_active: "#0EAD69"
+menu_title: "#118AB2"
+
+# Backgrounds
+background: "#F7F7F7"
+home_section_odd: "#F7F7F7"
+home_section_even: "#F7F7F7"
+
+dark_background: "F7F7F7"
+dark_home_section_odd: "F7F7F7"
+dark_home_section_even: "F7F7F7"
+
+link: "#D90429"
+link_hover: "#118AB2"
+
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+local_business_type: 'NA'
+org_name: 'NA'
+description: 'NA'
+twitter: 'NA'
+
+## added linkedin 
+linkedin: linkedin.com/in/emma-thomley 
 
 # Contact (edit or remove options as required)
-
-email: test@example.org
-phone: 888 888 88 88
+#removed street, coordinates, directions
+#added days of the week and changed the times
+email: emma.thomley@gmail.com
+phone: 1 507 491 0037
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  city: Minneapolis
+  region: MN
+  postcode: '55408'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday 9:00 to 17:00'
+  - 'Tuesday 09:00 to 17:00'
+  - 'Wednesday 09:00 to 17:00'
+  - 'Thursday 09:00 to 17:00'
+  - 'Friday 09:00 to 17:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
