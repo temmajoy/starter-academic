@@ -5,7 +5,7 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#D1A695"
+primary = "#E0D4C6"
 primary_light = "#FFFFFF"
 primary_dark = "#A4755B"
 
@@ -13,12 +13,12 @@ primary_dark = "#A4755B"
 menu_primary = "#D1A695"
 menu_text = "#34351B"
 menu_text_active = "#FFFFFF"
-menu_title = "#FFFFFF"
+menu_title = "#E0D4C6"
 
 # Backgrounds
-background = "#D1A695"
-home_section_odd = "#D1A695"
-home_section_even = "#D1A695"
+background = "#E0D4C6"
+home_section_odd = "#E0D4C6"
+home_section_even = "#E0D4C6"
 
 ##all were default before
 dark_background = "#34351B"
