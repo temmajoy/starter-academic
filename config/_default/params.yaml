@@ -5,13 +5,11 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+
 
 # Theme metadata ADDED ALL OF THIS UNTIL SEO changed 
 # Received Error and changed = to : for name and primary 
+#cut theme from above these comments and pasted under name but before SEO
 name: "my_theme"
 
 # Is theme light or dark?
@@ -37,6 +35,11 @@ dark_home_section_even: "F7F7F7"
 
 link: "#D90429"
 link_hover: "#118AB2"
+
+theme: "my_theme"
+day_night: true
+font: ''
+font_size: L
 
 # SEO
 
