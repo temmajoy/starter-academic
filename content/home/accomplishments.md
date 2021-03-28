@@ -29,8 +29,6 @@ item:
   description: ""
   organization: RIT
   organization_url: https://www.rit.edu/
-  funding: NSF
-  funding_url: https://www.nsf.gov/
   title: Supporting Disaster Resilience Spatial Thinking with Serious GeoGames: Project Lily Pad
   url: ""
 - certificate_url: https://www.edx.org
