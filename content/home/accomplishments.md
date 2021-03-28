@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
-  description: |2- Formulated informed blockchain models, hypotheses, and use cases. as developed integrating Geographic Information System (GIS) which was achieved by 
+  description: '|2- Formulated informed blockchain models, hypotheses, and use cases. as developed integrating Geographic Information System (GIS) which was achieved by' 
   organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
