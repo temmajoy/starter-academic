@@ -49,7 +49,7 @@ social:
   link: https://linkedin.com/in/emma-thomley
 - icon: cv
   icon_pack: ai
-  link: static/uploads/media/Resume_EmmaThomley.pdf
+  link: static//media/Resume.pdf
 # not using cuurently - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
