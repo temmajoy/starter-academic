@@ -8,19 +8,20 @@ light = true
 primary = "#EF476F"
 
 # Menu
-menu_primary = "#F7F7F7"
-menu_text = "#FCA311"
-menu_text_active = "#0EAD69"
-menu_title = "#118AB2"
+menu_primary = "#cb997e"
+menu_text = "#cb997e"
+menu_text_active = "#cb997e"
+menu_title = "#cb997e"
 
 # Backgrounds
-background = "#F7F7F7"
-home_section_odd = "#F7F7F7"
-home_section_even = "#F7F7F7"
+background = "#ffe8d6"
+home_section_odd = "#ffe8d6"
+home_section_even = "#ffe8d6"
 
-dark_background = ""
-dark_home_section_odd = ""
-dark_home_section_even = ""
+##all were default before
+dark_background = "#6b705c"
+dark_home_section_odd = "#6b705c"
+dark_home_section_even = "#6b705c"
 
 link = "#D90429"
 link_hover = "#118AB2"
