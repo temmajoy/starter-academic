@@ -10,7 +10,7 @@ role: Sustainable Agriculture Advocate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Carleton College
+- name: Carleton College '20
   url: https://www.carleton.edu/
 
 # Short bio (displayed in user profile at end of posts)
