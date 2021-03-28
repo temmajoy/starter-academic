@@ -16,9 +16,9 @@ menu_text_active = "#FFFFFF"
 menu_title = "#f1faee"
 
 # Backgrounds
-background = "#EBF5DF"
-home_section_odd = "#EBF5DF"
-home_section_even = "#BAD4AA"
+background = "#090446"
+home_section_odd = "#090446"
+home_section_even = "#a8dadc"
 
 ##all were default before
 dark_background = "#f1faee"
