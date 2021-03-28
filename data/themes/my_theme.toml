@@ -16,7 +16,7 @@ menu_text_active = "#d62828"
 menu_title = "#eae2b7"
 
 # Backgrounds
-background = linear-gradient "#ffffff, #090446"
+background = linear-gradient 
 gradient_start = "#eae2b7"
 gradient_end = "#ffffff"
 background = "#ffffff"
