@@ -16,8 +16,17 @@ menu_text_active = "#d62828"
 menu_title = "#ffffff"
 
 # Backgrounds
+#added gradient and removed top line of the next three lines 
+#background = "#ffffff"
+#home_section_odd = "#ffffff"
+#home_section_even = "#eae2b7"
+design:
+  background:
+    gradient_start: '#ffffff'
+    gradient_end: '#eae2b7'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 
-background = "#ffffff"
 home_section_odd = "#ffffff"
 home_section_even = "#eae2b7"
 
