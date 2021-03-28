@@ -4,42 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
-
-
-# Theme metadata ADDED ALL OF THIS UNTIL SEO changed 
-# Received Error and changed = to : for name and primary 
-#cut theme from above these comments and pasted under name but before SEO
-name: "my_theme"
-
-# Is theme light or dark?
-light: true
-
-# Primary
-primary: "#EF476F"
-
-# Menu
-menu_primary: "#F7F7F7"
-menu_text: "#FCA311"
-menu_text_active: "#0EAD69"
-menu_title: "#118AB2"
-
-# Backgrounds
-background: "#F7F7F7"
-home_section_odd: "#F7F7F7"
-home_section_even: "#F7F7F7"
-
-dark_background: "F7F7F7"
-dark_home_section_odd: "F7F7F7"
-dark_home_section_even: "F7F7F7"
-
-link: "#D90429"
-link_hover: "#118AB2"
-
-theme: "my_theme"
+theme: "minimal"
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
