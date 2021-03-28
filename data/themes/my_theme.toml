@@ -7,23 +7,23 @@ light = true
 # Primary
 primary = "#FFFFFF"
 primary_light = "#FFFFFF"
-primary_dark = "#A4755B"
+primary_dark = "#403030"
 
 # Menu
-menu_primary = "#E0D4C6"
-menu_text = "#34351B"
+menu_primary = "#F8EEED"
+menu_text = "#403030"
 menu_text_active = "#FFFFFF"
-menu_title = "#E0D4C6"
+menu_title = "#F8EEED"
 
 # Backgrounds
-background = "#E0D4C6"
+background = "#F8EEED"
 home_section_odd = "#E0D4C6"
-home_section_even = "#E0D4C6"
+home_section_even = "#F8EEED"
 
 ##all were default before
-dark_background = "#34351B"
-dark_home_section_odd = "#34351B"
-dark_home_section_even = "#34351B"
+dark_background = "#403030"
+dark_home_section_odd = "#403030"
+dark_home_section_even = "#403030"
 
-link = "#34351B"
+link = "#403030"
 link_hover = "#FFFFFF" 
