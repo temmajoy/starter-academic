@@ -49,7 +49,7 @@ social:
   link: https://linkedin.com/in/emma-thomley
 - icon: cv
   icon_pack: ai
-  link: static/media/Resume.pdf
+  link: media/Resume.pdf
 # not using cuurently - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -71,4 +71,4 @@ I graduated from Carleton College with a degree in Political Science and Environ
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< icon name="cv" pack="fab" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
