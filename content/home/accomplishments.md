@@ -30,13 +30,5 @@ item:
   organization: edX
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.mdpi.com/2220-9964/9/6/405
-  date_end: ""
-  date_start: "2020-06-22"
-  description: ""
-  organization: "NSF RIT REU"
-  organization_url: https://www.rit.edu/
-  title: 'Supporting Disaster Resilience Spatial Thinking with Serious GeoGames: Project Lily Pad' 
-  url: "" 
+  url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 ---
