@@ -65,7 +65,7 @@ email: "emma.thomley@gmail.com"
 highlight_name: false
 ---
 
-Emma Thomley graduated from Carleton College with a Bachelors Degree in Environmental Studies and Political Science. Her research interests include community outreach, sustainable agriculture, and environmental justice. She volunteers with the Land Stewardship Project, which advocates for sustainable farming practices.
+Last summer, I graduated from Carleton College with a degree in Political Science and Environmental Studies. Within my degree, I explored the relationship between effective policy implementation and inclusionary strategies. I also enjoyed investigating the difficulties of implementing climate mitigation strategies in a rapidly changing economic, political, and technological climate. Above all, I find meaning in my work when I engage in research and communicate that knowledge to others. I want to help people help themselves and their community. Through my Congressional work, Environmental Fellowship, and Volunteering, I have continued to do what I believe is most important—providing valuable policy information and resources to community members who want to take action on local issues. Outside of my outreach and research work, I am happiest outdoors: running, hiking, canoeing, gardening, or reading a good book.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
