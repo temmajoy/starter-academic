@@ -70,3 +70,5 @@ I graduated from Carleton College with a degree in Political Science and Environ
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="cv" pack="fab" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
