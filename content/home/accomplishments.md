@@ -34,9 +34,9 @@ item:
   - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
-  description: |2- Project Lily Pad is a Serious Geogame developed over Summer 2018 with the purpose of teaching spatial thinking in terms of disaster resilience. The game is set in the city of 
-  organization: RIT
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
   organization_url: https://www.edx.org
-  title: Spatial Resilience
-  url: ""
+  title: Blockchain Fundamentals
+  url: "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 ---
