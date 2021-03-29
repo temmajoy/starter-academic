@@ -25,6 +25,7 @@ menu_title = "#ffffff"
 #home_section_odd =
 #  design =
 background =
+home_section =
       gradient_start = '#ffffff'
       gradient_end = '#eae2b7'
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
