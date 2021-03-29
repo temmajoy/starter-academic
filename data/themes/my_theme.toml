@@ -22,9 +22,9 @@ menu_title = "#ffffff"
 #home_section_even = "#eae2b7"
 #code failed, changed : to =
 #added home section above design
-home_section_odd =
-  design =
-    background =
+#home_section_odd =
+#  design =
+background =
       gradient_start = '#ffffff'
       gradient_end = '#eae2b7'
       # Text color (true=light, false=dark, or remove for the dynamic theme color).
