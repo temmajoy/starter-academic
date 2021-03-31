@@ -17,10 +17,17 @@ organizations:
 bio: My research interests include policy analysis, community outreach sustainable agriculture and environmental justice.
 
 # Interests to show in About widget
-interests:
+Interests:
+- Sustainable Agriculture
+- Community Outreach 
+- Policy Research
+- Social Media Content and Web Design 
 - Hiking
-- Gardening
 - Running
+- Board Games
+- History Podcasts 
+- Random Facts 
+- Swing Dancing
 
 # Education to show in About widget
 education:
@@ -66,7 +73,7 @@ email: "emma.thomley@gmail.com"
 highlight_name: false
 ---
 
-I graduated from Carleton College with a degree in Political Science and Environmental Studies. Within my degree, I explored the relationship between effective policy implementation and inclusionary strategies. I also investigated the difficulties of implementing climate mitigation strategies in a rapidly changing economic, political, and technological climate. Above all, I find meaning in my work when I effectively convey it to others and when I help people assist their community. Through my Congressional work, Environmental Fellowship, and Volunteering, I have continued to do what I believe is most important—provide valuable information and resources to community members taking action on local issues. Outside of my outreach and research work, I am happiest outdoors: running, hiking, canoeing, gardening, or reading a good book.
+I am a Political Science and Environmental Studies graduate from Carleton College. At Carleton, I researched effective policy implementation and inclusionary strategies and other policy issues. Investigating the difficulties of implementing climate mitigation strategies in a rapidly changing economic, political, and technological climate drove me to give back to my community; I continue to do what's most important to me—provide information and resources to community members taking action on local issues. Outside of my outreach and research, I am happiest outdoors or winning at hearts. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
